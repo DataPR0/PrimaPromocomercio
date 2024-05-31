@@ -12,3 +12,9 @@ Para ejecutar el script de Python, puedes utilizar Anaconda o Visual Studio Code
 # Tiempo de Ejecución
 
 El tiempo de ejecución debe ser inferior a 5 minutos.
+
+# Archivos Generados
+
+El archivo generado es un CSV (Comma-Separated Values), compatible con Microsoft Excel y otros programas de hojas de cálculo. Estará ubicado dentro de los archivos después de la ejecución del script. *Es importante cambiar la ruta en donde quedan alojado el archivo mencioando*
+
+# 
