@@ -15,6 +15,10 @@ El tiempo de ejecución debe ser inferior a 5 minutos.
 
 # Archivos Generados
 
-El archivo generado es un CSV (Comma-Separated Values), compatible con Microsoft Excel y otros programas de hojas de cálculo. Estará ubicado dentro de los archivos después de la ejecución del script. *Es importante cambiar la ruta en donde quedan alojado el archivo mencioando*
+El archivo generado es un CSV (Comma-Separated Values), compatible con Microsoft Excel y otros programas de hojas de cálculo. Es crucial cambiar la ruta donde se aloja el archivo mencionado después de la ejecución del script.
+
+### Nota: 
+
+Dentro de los archivos que encontrarán en este repositorio estará el archivo generado, lo que proporcionará una idea de cómo se muestra una vez generado. Es de suma importancia mencionar que, ese NO es el archivo que se comparte a la líder sino que luego se realizan ajustes para compartirlo por medio de correo corporativo con la etiqueta quee corresponda 
 
 # 
